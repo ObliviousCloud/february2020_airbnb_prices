@@ -1,0 +1,1 @@
+In this dataset, we are taking a looking at Airbnb data from NYC in 2019. This is only the beginning. 
